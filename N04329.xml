@@ -112,8 +112,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:005353_0000_10172176D58B2300"/>
-            <pb facs="tcp:005353_0001_1017216F8DD7CAF0"/>
+            <pb facs="unknown:005353_0000_10172176D58B2300"/>
+            <pb facs="unknown:005353_0001_1017216F8DD7CAF0"/>
             <p>THE <hi>COMET:</hi> A POEM.</p>
             <figure/>
             <p>
@@ -122,7 +122,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:005353_0002_10172179B96F4AF8"/>
+            <pb facs="unknown:005353_0002_10172179B96F4AF8"/>
             <head>THE COMET.</head>
             <lg>
                <l>
@@ -148,7 +148,7 @@
                <l>A world in chaos, or an earth in flames.</l>
             </lg>
             <lg>
-               <pb n="3" facs="tcp:005353_0003_1017217BE6D4EEE8"/>
+               <pb n="3" facs="unknown:005353_0003_1017217BE6D4EEE8"/>
                <l>So, thro' the Aether, ſwept the ancient earth,</l>
                <l>Ere time, and form, and beauty firſt had birth,</l>
                <l>Unſhap'd and void, thro' ſpace immenſe it roam'd,</l>
@@ -178,7 +178,7 @@
                <l>Ye fancy, mortals! diſtant as ye are,</l>
                <l>All calm and placid round the ſailing ſtar,</l>
                <l>
-                  <pb n="4" facs="tcp:005353_0004_1017217D82CD21F0"/>
+                  <pb n="4" facs="unknown:005353_0004_1017217D82CD21F0"/>
 In gentle rays ſerenely gleams the head,</l>
                <l>And eaſy luſter thro' the train is ſpread:</l>
                <l>Ah, ye perceive not what loud tumult reigns</l>
